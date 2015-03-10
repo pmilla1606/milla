@@ -1,0 +1,13 @@
+@import "normalize";
+@import "github";
+
+pre {
+    padding: 1em;
+    background: #f5f5f5;
+    font-size: .8em;
+}
+
+.container {
+    max-width: 650px;
+    margin: 0 auto;
+}
