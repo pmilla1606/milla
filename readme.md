@@ -1,1 +1,0 @@
-## Jungove - Peter Margaritoff's Blog Attempt
